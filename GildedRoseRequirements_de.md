@@ -18,10 +18,9 @@ sodass wir eine neue Kategorie von Artikeln ("items") verkaufen können.
 
 Zunächst eine Einführung in unser System:
 
-- Alle Artikel ("items") besitzen einen `sellIn`-Wert
-  ("Mindesthaltbarkeit").  Er gibt die Anzahl der Tage an, die uns zum Verkauf
-  einer Ware verbleiben.
-- Alle Artikel besitzen einen `quality`-Wert ("Qualität").  Sie gibt an, wie
+- Jeder Artikel ("item") besitzt einen `sellIn`-Wert ("Mindesthaltbarkeit").  Er
+  gibt die Anzahl der Tage an, die uns zum Verkauf einer Ware verbleiben.
+- Jeder Artikel besitzt einen `quality`-Wert ("Qualität").  Er gibt an, wie
   wertvoll der Artikel ist.
 - Am Ende eines jeden Tages senkt unser System beide Werte für jeden Artikel.
 
