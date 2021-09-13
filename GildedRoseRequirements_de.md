@@ -39,7 +39,7 @@ Kling einfach, oder?  Tja, hier wird es interessant:
       wenn 5 oder weniger Tage übrig sind.
     * Aber: die Qualität sinkt auf 0, nach dem Konzert.
 
-Wir haben vor kurzem eine Lieferanten heraufbeschworener Waren unter Vertrag
+Wir haben vor kurzem eine Lieferanten für heraufbeschworene Waren unter Vertrag
 genommen.  Das erfordert eine Anpassung unseres Systems:
 
 - Heraufbeschworene Waren ("conjured") verlieren ihre Qualität doppelt so
