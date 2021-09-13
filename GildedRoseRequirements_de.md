@@ -52,7 +52,7 @@ hinzufügen, solange das System weiterhin korrekt arbeitet.
 Kobold in der Ecke, der dich andernfalls insta-raged und one-shotted, da er
 nicht an eine gemeinsame Verantwortung für Code glaubt.  (Solltest du die
 `updateQuality` Methode oder die Item-Eigenschaften `static` deklarieren wollen,
-würden wir die allerdings den Rücken freihalten.)
+würden wir dir allerdings den Rücken freihalten.)
 
 Um es noch einmal klarzustellen:  Die Qualität eines Gegenstandes kann nie über
 50 steigen.  "Sulfuras" ist allerdings ein legendärer Gegenstand, besitzt als
