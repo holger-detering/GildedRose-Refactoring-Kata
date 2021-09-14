@@ -20,6 +20,10 @@ Du solltest dir die deutsche Übersetzung der
 [Anforderungsspezifikation](GildedRoseRequirements_de.md) bzw. die ["Gilded Rose
 Requirements"](GildedRoseRequirements.txt) auf Englisch anschauen.
 
+Der C++ Quellcode befindet sich im [cpp](cpp) Verzeichnis dieses Repositories.
+Dort findest du eine [Anleitung](cpp/README.md) zum Kompilieren der Software und
+zum Starten der Tests.
+
 Ich rate dringend dazu, Tests zu schreiben, um sicherzustellen, dass du beim Refactoring
 nichts kaputt machst.  Du könntest eigene Unit-Tests schreiben, die sich an den
 Requirements orientieren.  Es gibt bereits einen fehlgeschlagenen Unit-Test als
