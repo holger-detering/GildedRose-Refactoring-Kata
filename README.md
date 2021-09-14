@@ -1,6 +1,6 @@
 # Gilded Rose Refactoring Kata
 
-This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes). It is already on GitHub [here](https://github.com/NotMyself/GildedRose). See also [Bobby Johnson's description of the kata](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/).
+This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes). It is already on GitHub [here](https://github.com/NotMyself/GildedRose). See also [Bobby Johnson's description of the kata](http://iamnotmyself.com/2011/02/14/refactor-this-the-gilded-rose-kata/).
 
 I translated the original C# into a few other languages, (with a little help from my friends!), and slightly changed the starting position. This means I've actually done a small amount of refactoring already compared with the original form of the kata, and made it easier to get going with writing tests by giving you one failing unit test to start with. I also added test fixtures for Text-Based approval testing with TextTest (see [the TextTests](https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/master/texttests))
 
@@ -23,14 +23,7 @@ Whichever testing approach you choose, the idea of the exercise is to do some de
 ### Gilded Rose Requirements in other languages 
 
 - [English](GildedRoseRequirements.txt)
-- [Español](GildedRoseRequirements_es.md)
-- [Français](GildedRoseRequirements_fr.md)
-- [日本語](GildedRoseRequirements_jp.md)
-- [Português](GildedRoseRequirements_pt-BR.md)
-- [Русский](GildedRoseRequirements_ru.txt)
-- [ไทย](GildedRoseRequirements_th.md)
-- [中文](GildedRoseRequirements_zh.txt)
-- [한국어](GildedRoseRequirements_kr.md)
+- [Deutsch](GildedRoseRequirements_de.md)
 
 ## Text-Based Approval Testing
 
