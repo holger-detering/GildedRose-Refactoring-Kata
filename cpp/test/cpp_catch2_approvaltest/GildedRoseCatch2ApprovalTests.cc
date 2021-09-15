@@ -4,6 +4,7 @@
 #include <sstream>
 #include <utility>
 
+// code under test
 #include "GildedRose.h"
 
 std::ostream &operator<<(std::ostream &os, const Item &obj) {

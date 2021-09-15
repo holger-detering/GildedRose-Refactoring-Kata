@@ -1,11 +1,10 @@
-// Include header files for test frameworks
 #include <ApprovalTests.hpp>
 #include <gtest/gtest.h>
 
 #include <sstream>
 #include <utility>
 
-// Include code under test
+// code under test
 #include "GildedRose.h"
 
 std::ostream &operator<<(std::ostream &os, const Item &obj) {
