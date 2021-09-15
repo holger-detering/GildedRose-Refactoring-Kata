@@ -1,5 +1,7 @@
 #define APPROVALS_CATCH
 #include "ApprovalTests.hpp"
+
+#include <utility>
 #include "GildedRose.h"
 
 std::ostream& operator<<(std::ostream& os, const Item& obj)
@@ -17,7 +19,7 @@ TEST_CASE("Verify combinations with Foo")
     std::vector<int> qualities { 1 };
 
     auto f = [](string name, int sellIn, int quality) {
-        vector<Item> items = {Item(name, sellIn, quality)};
+        vector<Item> items = {Item(std::move(name), sellIn, quality)};
         GildedRose app(items);
         app.updateQuality();
         return items[0];

@@ -1,6 +1,7 @@
 // Include header files for test frameworks 
 #include <gtest/gtest.h>
 #include <ApprovalTests.hpp>
+#include <utility>
 
 // Include code to be tested
 #include "GildedRose.h"
@@ -20,7 +21,7 @@ TEST(GildedRoseApprovalTests, VerifyCombinations) {
     std::vector<int> qualities { 1 };
 
     auto f = [](string name, int sellIn, int quality) {
-        vector<Item> items = {Item(name, sellIn, quality)};
+        vector<Item> items = {Item(std::move(name), sellIn, quality)};
         GildedRose app(items);
         app.updateQuality();
         return items[0];
