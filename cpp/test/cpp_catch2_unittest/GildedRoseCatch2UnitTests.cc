@@ -2,7 +2,7 @@
 #include "catch2/catch.hpp"
 #include "GildedRose.h"
 
-TEST_CASE("GildedRoseUnitTest", "Foo")
+TEST_CASE("test Foo")
 {
     vector<Item> items;
     items.push_back(Item("Foo", 0, 0));

@@ -10,7 +10,7 @@ std::ostream& operator<<(std::ostream& os, const Item& obj)
         << ", quality: " << obj.quality;
 }
 
-TEST_CASE("GildedRoseApprovalTests", "VerifyCombinations")
+TEST_CASE("Verify combinations with Foo")
 {
     std::vector<string> names { "Foo" };
     std::vector<int> sellIns { 1 };
