@@ -14,7 +14,7 @@ The `GildedRose.cc` file, i.e. the code under test, is identical in all four var
 
 ## Prerequisites
 
-* CMake version >= 3.13
+* CMake version >= 3.12
 * C++ compiler that support C++11
 
 ## How to build and run tests in a terminal
