@@ -11,7 +11,7 @@ von C# in zahlreiche andere Programmiersprachen übertragen.
 Ich (Holger) habe ihr Repo geforkt, einige Texte angepasst und mich auf C++ als
 Programmiersprache beschränkt.
 
-## Wie man dieses Kata verwendet.
+## Wie man dieses Kata verwendet
 
 Die einfachste Methode besteht darin, dieses Repo zu klonen und mit der Verbesserung des
 Designs anzufangen.
