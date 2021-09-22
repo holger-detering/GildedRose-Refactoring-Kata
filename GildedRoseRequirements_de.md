@@ -3,7 +3,7 @@
 Hallo und willkommen im Team Goldene Rose ("Gilded Rose").
 
 Wie du weißt, sind wir ein kleines Lokal einer namhaften Stadt in bester Lage,
-das von einem freundlichen Gastwirt namens Allison geführt wird.
+das von einer freundlichen Gastwirtin namens Allison geführt wird.
 
 Ausserdem handeln wird mit den allerfeinsten Waren.  Unglücklicherweise nimmt
 die Qualität unserer Waren ständig ab während sie sich ihrem
