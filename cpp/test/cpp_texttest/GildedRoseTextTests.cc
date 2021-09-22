@@ -27,7 +27,7 @@ int main()
 
     GildedRose app(items);
 
-    for (int day = 0; day <= 30; day++)
+    for (int day = 0; day <= 30; ++day)
     {
         printf("-------- day %d --------\n", day);
         printf("name, sellIn, quality\n");
