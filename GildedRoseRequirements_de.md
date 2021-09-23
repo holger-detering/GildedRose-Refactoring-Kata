@@ -37,7 +37,7 @@ Kling einfach, oder?  Tja, hier wird es interessant:
   wenn sich ihr "Mindesthaltbarkeitsdatum" nähert:
     * Ihre Qualität steigt um 2, wenn 10 oder weniger Tage übrig sind, und um 3,
       wenn 5 oder weniger Tage übrig sind.
-    * Aber: die Qualität sinkt auf 0, nach dem Konzert.
+    * Aber: Nach dem Konzert sinkt die Qualität auf 0.
 
 Wir haben vor kurzem eine Lieferanten für heraufbeschworene Waren unter Vertrag
 genommen.  Das erfordert eine Anpassung unseres Systems:
