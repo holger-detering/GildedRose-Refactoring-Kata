@@ -38,7 +38,7 @@ Kling einfach, oder?  Tja, hier wird es interessant:
   ein legendärer Gegenstand, muss nie verkauft werden und verliert nie an
   Qualität.
 - Backstagepässe ("Backstage passes") steigen - wie alter Brie - an Qualität,
-  wenn sich ihr "Mindesthaltbarkeitsdatum" nähert:
+  wenn sich ihr Mindesthaltbarkeitsdatum nähert:
     * Ihre Qualität erhöht sich um 2, wenn 10 oder weniger Tage übrig sind, und
       um 3, wenn 5 oder weniger Tage übrig sind.
     * Aber: Nach dem Konzert sinkt die Qualität auf 0.
