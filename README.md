@@ -2,7 +2,7 @@
 
 Dieses Kata wurde ursprünglich von [Terry Hughes](https://twitter.com/TerryHughes)
 erdacht.  Auf GitHub ist das Original [hier](https://github.com/NotMyself/GildedRose) zu
-finden.  Sie auch [Bobby Johnsons Blog
+finden.  Siehe auch [Bobby Johnsons Blog
 Artikel](https://iamnotmyself.com/2011/02/14/refactor-this-the-gilded-rose-kata/) hierzu.
 
 [Emily Bache](https://github.com/emilybache/GildedRose-Refactoring-Kata) hat die Aufgabe
