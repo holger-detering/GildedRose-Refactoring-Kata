@@ -1,17 +1,20 @@
-# Anforderungsspezifikation Goldene Rose ("Gilded Rose")
+# Anforderungsspezifikation Güldene Rose ("Gilded Rose")
 
-Hallo und willkommen im Team Goldene Rose ("Gilded Rose").
+Hallo und willkommen im Team Güldene Rose ("Gilded Rose").
 
-Wie du weißt, sind wir ein kleines Lokal einer namhaften Stadt in bester Lage,
-das von einer freundlichen Gastwirtin namens Allison geführt wird.
+Wie du weißt, sind wir ein kleines
+[Lokal](https://wowpedia.fandom.com/wiki/Gilded_Rose) einer namhaften Stadt in
+bester Lage, das von einer freundlichen Gastwirtin namens
+[Allison](https://wowpedia.fandom.com/wiki/Innkeeper_Allison) geführt wird.
 
 Ausserdem handeln wir mit den allerfeinsten Waren.  Unglücklicherweise nimmt die
 Qualität unserer Waren ständig ab während sie sich ihrem
 Mindesthaltbarkeitsdatum nähern.
 
 Wir haben ein System installiert, das unsere Bestandslisten aktualisiert.  Es
-wurde von einem nüchternen Kerl namens Leeroy entwickelt, der zu neuen
-Abenteuern aufgebrochen ist.
+wurde von einem nüchternen Kerl namens
+[Leeroy](https://wowpedia.fandom.com/wiki/Leeroy_Jenkins) entwickelt, der zu
+neuen Abenteuern aufgebrochen ist.
 
 Deine Aufgabe ist es, unser System um eine neue Funktionalität zu erweitern,
 sodass wir eine neue Kategorie von Artikeln ("items") verkaufen können.
@@ -31,8 +34,9 @@ Kling einfach, oder?  Tja, hier wird es interessant:
 - Die Qualität eines Artikel wird nie negativ.
 - Alter Brie ("Aged Brie") wird besser, je älter er wird.
 - Die Qualität eines Artikels beträgt nie mehr als 50.
-- "Sulfuras" ist ein legendärer Gegenstand, muss nie verkauft werden und
-  verliert nie an Qualität.
+- ["Sulfuras"](https://wowpedia.fandom.com/wiki/Sulfuras,_Hand_of_Ragnaros) ist
+  ein legendärer Gegenstand, muss nie verkauft werden und verliert nie an
+  Qualität.
 - Backstagepässe ("Backstage passes") steigen - wie alter Brie - an Qualität,
   wenn sich ihr "Mindesthaltbarkeitsdatum" nähert:
     * Ihre Qualität erhöht sich um 2, wenn 10 oder weniger Tage übrig sind, und
